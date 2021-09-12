@@ -2,7 +2,7 @@
 
 ## Miss.kksk
 
-热爱前端、热爱技术。工作经验两个月。喜欢参与一些开源项目的讨论。
+一个普通的宅男
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=xcw2333&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
